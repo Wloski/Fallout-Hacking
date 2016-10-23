@@ -1,0 +1,14 @@
+C:\Users\Michael Wloch\Desktop\Projects\Fallout Hacking V2\Fallout Hacking V2\bin\Debug\Fallout Hacking V2.exe.config
+C:\Users\Michael Wloch\Desktop\Projects\Fallout Hacking V2\Fallout Hacking V2\bin\Debug\Fallout Hacking V2.exe
+C:\Users\Michael Wloch\Desktop\Projects\Fallout Hacking V2\Fallout Hacking V2\bin\Debug\Fallout Hacking V2.pdb
+C:\Users\Michael Wloch\Desktop\Projects\Fallout Hacking V2\Fallout Hacking V2\obj\Debug\Fallout Hacking V2.csprojResolveAssemblyReference.cache
+C:\Users\Michael Wloch\Desktop\Projects\Fallout Hacking V2\Fallout Hacking V2\obj\Debug\Fallout_Hacking_V2.menu.resources
+C:\Users\Michael Wloch\Desktop\Projects\Fallout Hacking V2\Fallout Hacking V2\obj\Debug\Fallout_Hacking_V2.Properties.Resources.resources
+C:\Users\Michael Wloch\Desktop\Projects\Fallout Hacking V2\Fallout Hacking V2\obj\Debug\Fallout Hacking V2.csproj.GenerateResource.Cache
+C:\Users\Michael Wloch\Desktop\Projects\Fallout Hacking V2\Fallout Hacking V2\obj\Debug\Fallout Hacking V2.exe
+C:\Users\Michael Wloch\Desktop\Projects\Fallout Hacking V2\Fallout Hacking V2\obj\Debug\Fallout Hacking V2.pdb
+C:\Users\Michael Wloch\Desktop\Projects\Fallout Hacking V2\Fallout Hacking V2\obj\Debug\Fallout_Hacking_V2.gameForm.resources
+C:\Users\Michael Wloch\Desktop\Projects\Fallout Hacking V2\Fallout Hacking V2\bin\Debug\MetroFramework.Design.dll
+C:\Users\Michael Wloch\Desktop\Projects\Fallout Hacking V2\Fallout Hacking V2\bin\Debug\MetroFramework.dll
+C:\Users\Michael Wloch\Desktop\Projects\Fallout Hacking V2\Fallout Hacking V2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Michael Wloch\Desktop\Projects\Fallout Hacking V2\Fallout Hacking V2\obj\Debug\Fallout_Hacking_V2.optionMenu.resources
