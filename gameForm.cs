@@ -31,7 +31,6 @@ namespace Fallout_Hacking_V2
         {
             
             gameListBox.Items.Add("Welcome to ROBCO Industries (TM) Termlink");
-            gameListBox.Items.Add("Press Control + C to quit...");
             gameListBox.Items.Add("Password Required");
             gameListBox.Items.Add("");
             List<string> WordList = _gameLogic.createWordList();
