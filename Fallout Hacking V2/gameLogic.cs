@@ -32,12 +32,17 @@ namespace Fallout_Hacking_V2
         public List<string> getRandomWords(List<string> _wordList)
         {
             List<string> randomWordList = new List<string>(); // Create new list
+            List<string> Search = new List<string>();
             int numberOfWords = _wordList.Count(); //Get the amount of words in the list
             Random _random = new Random();
+            int random = _random.Next(0, numberOfWords);
+            string firstWord = _wordList[random];
+            char firstLetter = firstWord[0];
+            Search = _wordList.FindAll(s => s.Contains(firstLetter));
             for (int i = 1; i < 10; i++)
             {
-                int random = _random.Next(0, numberOfWords);
-                randomWordList.Add(_wordList[random]);                   
+                random = _random.Next(0, Search.Count());
+                randomWordList.Add(Search[random]);                   
             }
             return randomWordList;
         }

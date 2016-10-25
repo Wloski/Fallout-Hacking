@@ -81,6 +81,7 @@ namespace Fallout_Hacking_V2
                             {
                                 return;
                             }
+
                             int likeness = 0;
                             inputListBox.Items.Add(">" + answer.ToUpper());
                             if (answer.ToUpper() != password.ToUpper())
